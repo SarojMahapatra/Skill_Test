@@ -1,0 +1,13 @@
+Please follow below steps to run the code:
+From Command prompt:
+Method1:
+python Engineering_Analytics.py C:/Users/Input(folder location)
+
+Method 2:
+Hard code the file location inside the code in line number 9.
+
+watch_directory = 'C:/Users/Input'
+
+Method 3:
+Download and install Pycharm
+Then create a project and copy and paste the code and run
